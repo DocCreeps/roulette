@@ -1,0 +1,58 @@
+label {
+display:block;
+width:400px;
+float:left;
+}
+input{
+	position:relative;
+	background-color:#e96312 ;
+	border-radius: 7px;
+	
+}
+h1, section {
+	text-align: center;
+	margin:auto;
+	padding:auto;
+	}
+	
+header{
+	text-align: center;
+}
+h1, header{
+	background-color:#36D8C2;
+	
+}
+section{
+	background-color:#E8B900;
+	
+}
+#connect, #valider,#jouer{
+	background-color:#00E86C;
+	width:150px;
+	height:30px;
+	border-radius: 7px;
+}
+
+#clear{
+	background-color:#1176CE;
+	width:150px;
+	height:30px;
+	border-radius: 7px;
+	
+}
+#inscription{
+	background-color:#FFF68F;
+	width:150px;
+	height:30px;
+	border-radius: 7px;
+	
+}
+body{
+	margin: auto;
+	width:400px;
+}
+
+#miser{
+	border-bottom:solid 2px blue;
+	border-top:solid 2px blue;
+}
